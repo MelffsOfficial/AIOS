@@ -6,3 +6,5 @@ How to make your own distribution:
 2. Change the kernel.c as you like
 3. Run build.bat
 4. Your image is ready!
+
+Do you want to change the network protocol? Change the internet.c file. Do you want to change the game drivers? Change the GameDriver.C file!
